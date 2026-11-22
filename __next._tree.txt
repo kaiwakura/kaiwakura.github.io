@@ -1,8 +1,10 @@
-:HL["/_next/static/chunks/44c2narmio1ys.css","style"]
+:HL["/_next/static/chunks/0ezbdwl9435nt.css","style"]
 :HL["/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/b8dfa3d21eb22018-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/headshot.jpg","image"]
+:HL["/sdot-logo.png","image"]
 :HL["/uw-logo.png","image"]
+:HL["/asahi-logo.png","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"RJyWPuQtpVRdDbTRhzPQD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"z-LUP8RlfOROJjZE8ReB-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
