@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2ey07xzoq_nt5.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+5:I[33911,["$2"],"default"]
+c:I[97367,["$2"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$2"],"$12"]
+:HL["/_next/static/chunks/44c2narmio1ys.css","style"]
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"className":"wrap case","children":[["$","div",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"This page doesn't exist."}],["$","a",null,{"href":"/","children":"← Back home"}]]}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$7"}}]]
+8:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/44c2narmio1ys.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2ey07xzoq_nt5.js","async":true}]],["$","html",null,{"lang":"en","className":"ZXuCIW_variable _1NxLqG_variable","children":["$","body",null,{"children":[["$","header",null,{"className":"top","children":["$","div",null,{"className":"wrap","children":[["$","a",null,{"className":"brand","href":"/#top","children":["KW",["$","span",null,{"children":"."}]]}],["$","nav",null,{"className":"nav","aria-label":"Sections","children":[["$","a",null,{"href":"/#projects","children":"Projects"}],["$","a",null,{"href":"/#experience","className":"opt","children":"Experience"}],["$","a",null,{"href":"/#education","className":"opt","children":"Education"}],["$","a",null,{"href":"/#skills","className":"opt","children":"Skills"}],["$","a",null,{"href":"/#contact","children":"Contact"}],["$","a",null,{"href":"https://github.com/kaiwakura","target":"_blank","rel":"noopener","children":"GitHub"}]]}]]}]}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"className":"wrap case","children":[["$","div",null,{"className":"eyebrow","children":"404"}],["$","h1",null,{"children":"This page doesn't exist."}],["$","a",null,{"href":"/","children":"← Back home"}]]}],[]]}],["$","$L5",null,{}],["$","footer",null,{"children":["$","div",null,{"className":"wrap","children":[["$","span",null,{"children":["© ",2026," Kai Wakura"]}],["$","span",null,{"children":"Built with Next.js, React, TypeScript & CSS"}]]}]}]]}]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0a1118"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kai Wakura"}],["$","meta","1",{"name":"description","content":"Kai Wakura: Informatics and Political Science at the University of Washington, working toward product management."}],["$","meta","2",{"property":"og:title","content":"Kai Wakura"}],["$","meta","3",{"property":"og:description","content":"Kai Wakura: Informatics and Political Science at the University of Washington, working toward product management."}],["$","meta","4",{"property":"og:url","content":"https://kaiwakura.me/"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Kai Wakura"}],["$","meta","8",{"name":"twitter:description","content":"Kai Wakura: Informatics and Political Science at the University of Washington, working toward product management."}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$7"}},"a":"$@15","u":"$@16","b":"RJyWPuQtpVRdDbTRhzPQD"}
+e:null
+7:300
+16:true
+7:C
+15:0
+9:"$undefined"
+6:"$undefined"
+14:"$undefined"
+f:"$undefined"
